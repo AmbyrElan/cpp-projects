@@ -1,0 +1,1117 @@
+**********************
+**********************
+ 1 - 4 Minute Arrival Simulation 
+**********************
+**********************
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         1         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         2         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         3         3 minute(s)    3 minute(s).
+
+Customer # 3's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         4         1 minute(s)    2 minute(s).
+
+Customer # 4's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         5         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         6         4 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         7         4 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         8         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         9         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        10         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        11         4 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        12         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        13         4 minute(s)    4 minute(s).
+
+Customer # 13's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        14         3 minute(s)    4 minute(s).
+
+Customer # 14's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        15         3 minute(s)    2 minute(s).
+
+Customer # 15's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        16         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        17         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        18         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        19         2 minute(s)    4 minute(s).
+
+Customer # 19's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        20         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        21         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        22         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        23         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        24         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        25         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        26         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        27         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        28         4 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        29         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        30         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        31         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        32         4 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        33         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        34         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        35         4 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        36         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        37         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        38         2 minute(s)    1 minute(s).
+
+Customer # 38's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        39         3 minute(s)    2 minute(s).
+
+Customer # 39's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        40         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        41         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        42         1 minute(s)    4 minute(s).
+
+Customer # 42's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        43         4 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        44         1 minute(s)    3 minute(s).
+
+Customer # 44's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        45         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        46         3 minute(s)    4 minute(s).
+
+Customer # 46's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        47         4 minute(s)    2 minute(s).
+
+Customer # 47's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        48         4 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        49         2 minute(s)    2 minute(s).
+
+Customer # 49's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        50         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        51         3 minute(s)    3 minute(s).
+
+Customer # 51's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        52         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        53         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        54         4 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        55         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        56         4 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        57         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        58         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        59         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        60         4 minute(s)    1 minute(s).
+
+Customer # 60's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        61         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        62         4 minute(s)    3 minute(s).
+
+Customer # 62's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        63         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        64         4 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        65         1 minute(s)    4 minute(s).
+
+Customer # 65's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        66         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        67         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        68         1 minute(s)    4 minute(s).
+
+Customer # 68's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        69         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        70         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        71         1 minute(s)    1 minute(s).
+
+Customer # 71's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        72         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        73         4 minute(s)    2 minute(s).
+
+Customer # 73's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        74         4 minute(s)    4 minute(s).
+
+Customer # 74's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        75         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        76         1 minute(s)    3 minute(s).
+
+Customer # 76's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        77         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        78         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        79         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        80         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        81         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        82         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        83         4 minute(s)    1 minute(s).
+
+Customer # 83's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        84         4 minute(s)    3 minute(s).
+
+Customer # 84's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        85         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        86         3 minute(s)    3 minute(s).
+
+Customer # 86's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        87         4 minute(s)    2 minute(s).
+
+Customer # 87's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        88         3 minute(s)    1 minute(s).
+
+Customer # 88's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        89         2 minute(s)    3 minute(s).
+
+Customer # 89's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        90         4 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        91         2 minute(s)    1 minute(s).
+
+Customer # 91's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        92         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        93         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        94         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        95         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        96         4 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        97         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        98         3 minute(s)    2 minute(s).
+
+Customer # 98's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        99         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       100         3 minute(s)    2 minute(s).
+
+Customer # 100's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       101         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       102         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       103         3 minute(s)    2 minute(s).
+
+Customer # 103's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       104         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       105         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       106         4 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       107         4 minute(s)    2 minute(s).
+
+Customer # 107's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       108         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       109         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       110         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       111         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       112         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       113         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       114         4 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       115         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       116         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       117         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       118         3 minute(s)    3 minute(s).
+
+Customer # 118's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       119         2 minute(s)    1 minute(s).
+
+Customer # 119's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       120         3 minute(s)    2 minute(s).
+
+Customer # 120's service has been completed. 
+
+ ---------------- 
+Maximum number of customer's in the queue: 84
+ ---------------- 
+Longest wait time for a customer was 4 minute(s).
+
+
+
+**********************
+**********************
+ 1 - 3 Minute Arrival Simulation 
+**********************
+**********************
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         1         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         2         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         3         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         4         3 minute(s)    3 minute(s).
+
+Customer # 4's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         5         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         6         1 minute(s)    3 minute(s).
+
+Customer # 6's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         7         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         8         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+         9         3 minute(s)    2 minute(s).
+
+Customer # 9's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        10         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        11         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        12         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        13         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        14         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        15         3 minute(s)    1 minute(s).
+
+Customer # 15's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        16         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        17         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        18         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        19         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        20         3 minute(s)    2 minute(s).
+
+Customer # 20's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        21         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        22         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        23         3 minute(s)    3 minute(s).
+
+Customer # 23's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        24         3 minute(s)    1 minute(s).
+
+Customer # 24's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        25         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        26         3 minute(s)    3 minute(s).
+
+Customer # 26's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        27         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        28         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        29         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        30         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        31         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        32         2 minute(s)    3 minute(s).
+
+Customer # 32's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        33         2 minute(s)    3 minute(s).
+
+Customer # 33's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        34         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        35         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        36         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        37         2 minute(s)    3 minute(s).
+
+Customer # 37's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        38         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        39         1 minute(s)    4 minute(s).
+
+Customer # 39's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        40         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        41         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        42         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        43         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        44         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        45         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        46         3 minute(s)    2 minute(s).
+
+Customer # 46's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        47         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        48         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        49         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        50         1 minute(s)    4 minute(s).
+
+Customer # 50's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        51         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        52         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        53         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        54         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        55         2 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        56         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        57         1 minute(s)    4 minute(s).
+
+Customer # 57's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        58         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        59         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        60         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        61         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        62         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        63         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        64         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        65         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        66         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        67         1 minute(s)    2 minute(s).
+
+Customer # 67's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        68         1 minute(s)    2 minute(s).
+
+Customer # 68's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        69         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        70         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        71         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        72         1 minute(s)    2 minute(s).
+
+Customer # 72's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        73         2 minute(s)    1 minute(s).
+
+Customer # 73's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        74         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        75         3 minute(s)    3 minute(s).
+
+Customer # 75's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        76         2 minute(s)    2 minute(s).
+
+Customer # 76's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        77         3 minute(s)    4 minute(s).
+
+Customer # 77's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        78         3 minute(s)    4 minute(s).
+
+Customer # 78's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        79         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        80         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        81         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        82         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        83         3 minute(s)    3 minute(s).
+
+Customer # 83's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        84         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        85         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        86         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        87         3 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        88         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        89         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        90         1 minute(s)    2 minute(s).
+
+Customer # 90's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        91         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        92         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        93         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        94         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        95         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        96         3 minute(s)    3 minute(s).
+
+Customer # 96's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        97         1 minute(s)    1 minute(s).
+
+Customer # 97's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        98         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+        99         1 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       100         2 minute(s)    2 minute(s).
+
+Customer # 100's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       101         2 minute(s)    2 minute(s).
+
+Customer # 101's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       102         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       103         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       104         3 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       105         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       106         2 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       107         1 minute(s)    2 minute(s).
+
+Customer # 107's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       108         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       109         3 minute(s)    2 minute(s).
+
+Customer # 109's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       110         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       111         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       112         2 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       113         1 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       114         1 minute(s)    3 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       115         2 minute(s)    1 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       116         1 minute(s)    3 minute(s).
+
+Customer # 116's service has been completed. 
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       117         3 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       118         3 minute(s)    2 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       119         1 minute(s)    4 minute(s).
+
+Customer # 	Arrival Time	Service Time
+ -------------------------------------------------- 
+       120         2 minute(s)    2 minute(s).
+
+ ---------------- 
+Maximum number of customer's in the queue: 88
+ ---------------- 
+Longest wait time for a customer was 4 minute(s).
